@@ -23,8 +23,8 @@ Progress-Conditioned Future Utilization for World Action Models
 
 *Corresponding authors<br>
 
-<a href="https://arxiv.org/abs/XXXX.XXXXX">
-    <img src="https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg?logo=arxiv" alt="arXiv">
+<a href="https://arxiv.org/abs/2609.06578">
+  <img src="https://img.shields.io/badge/arXiv-2609.06578-b31b1b.svg?logo=arxiv" alt="arXiv">
 </a>
 
 
@@ -184,6 +184,6 @@ If you find this work useful for your research, please kindly cite our paper:
 @article{zhu2026prowam,
   title={Learning to Use Imagination: Progress-Conditioned Future Utilization for World Action Models},
   author={Zhu, Yijie and Yu, Zitong and Li, Wei and Ma, Hui and Li, Wen and Shao, Rui and Nie, Liqiang},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  journal={arXiv preprint arXiv:2609.06578},
   year={2026}
 }
